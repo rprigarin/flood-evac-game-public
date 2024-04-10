@@ -16,4 +16,6 @@ The game sends anonymous replay data to a remote replay server. Your replay beco
 
 Windows Defender might yell at the game executable since it cannot identify its publisher. At the moment I do not have a workaround for this. If this makes you uncomfortable, feel free to not play the game.
 
+The player registration system for quite primitive. Make sure you input a unique alphanumeric name, more than 2 characters and less than 32. After registration, you get a pin code for your account that you can hold on to.
+
 A Google Forms survey is available for you to leave feedback on the game. To do this, please visit <a href="https://flood-evac-game-uoe.com/">flood-evac-game-uoe.com</a> and find a link below.
