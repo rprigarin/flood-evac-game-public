@@ -1,12 +1,12 @@
-<h1>Flood Evacuation Game (<i>Prototype, version 1.0</i>)</h1>
-<h2>About the game</h2>
+<h1>Flood Evacuation Game (<i>Prototype, version 1.1</i>)</h1>
 
 This game is written for the University of Exeter as part of my individual project. To learn more about the game, please read the GameGuide.pdf
 
 <h2>How to run the game</h2>
 
-1. Unzip flood-evac-game-prototype-v1.zip
-2. Launch Flood Evacuation Game.exe
+1. Download the game from GitHub by clicking "Code" -> "Download ZIP"
+2. Unzip flood-evac-game-prototype-v1-1.zip
+3. Launch Flood Evacuation Game.exe
 
 <h2>Additional notes</h2>
 
@@ -19,3 +19,7 @@ Windows Defender might yell at the game executable since it cannot identify its 
 The player registration system for quite primitive. Make sure you input a unique alphanumeric name, more than 2 characters and less than 32. After registration, you get a pin code for your account that you can hold on to.
 
 A Google Forms survey is available for you to leave feedback on the game. To do this, please visit <a href="https://flood-evac-game-uoe.com/">flood-evac-game-uoe.com</a> and find a link below.
+
+<h2>Bug fixes</h2>
+
+v1.1 - Fixed a bug where stamina consumption and regeneration did not scale with delta time; the floodwater warning symbol now shows up in replays; stamina UI now changes colour when stamina is below 50%
