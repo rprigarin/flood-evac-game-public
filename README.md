@@ -16,7 +16,7 @@ Upon first booting the game, you are greeted with the Terms of Service screen re
 
 The player registration system is quite primitive. Make sure you input a unique alphanumeric name, more than 2 characters and less than 32. After registration, you get a pin code for your account that you can hold on to.
 
-A Google Forms survey is available for you to leave feedback on the game. To do this, please visit <a href="https://flood-evac-game-uoe.com/survey">flood-evac-game-uoe.comflood-evac-game-uoe.com/survey</a>.
+A Google Forms survey is available for you to leave feedback on the game. To do this, please visit <a href="https://flood-evac-game-uoe.com/survey">flood-evac-game-uoe.com/survey</a>.
 
 <h2>Features & bug fixes</h2>
 
