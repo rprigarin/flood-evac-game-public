@@ -25,8 +25,5 @@ v1.1 - Fixed a bug where stamina consumption and regeneration did not scale with
 v1.2 - Fixed a bug where stamina UI would display wrong colours during replays; the leaderboard can now display up more players, and can be scrolled through by dragging with the mouse; added a survey that shows up in main menu upon successfully completing the game
 
 v1.2.1 - The survey link is updated in main menu; exit button added to the ToS screen; small UI changes
-<<<<<<< HEAD
 
 v1.3 - Added multi-replay functionality and offline mode on login screen
-=======
->>>>>>> a5bba965472608d343fcf5dc337f0e4252bbb0e8
