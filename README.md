@@ -1,11 +1,11 @@
-<h1>Flood Evacuation Game (<i>Prototype, version 1.2.1</i>)</h1>
+<h1>Flood Evacuation Game (<i>Prototype, version 1.3</i>)</h1>
 
 This game is written for the University of Exeter as part of my individual project. To learn more about the game, please read the GameGuide.pdf
 
 <h2>How to run the game</h2>
 
 1. Download the game from GitHub by clicking "Code" -> "Download ZIP"
-2. Unzip flood-evac-game-prototype-v1-2-1.zip
+2. Unzip flood-evac-game-prototype-v1-3.zip
 3. Launch Flood Evacuation Game.exe
 
 <h2>Notes about the game</h2>
@@ -25,3 +25,5 @@ v1.1 - Fixed a bug where stamina consumption and regeneration did not scale with
 v1.2 - Fixed a bug where stamina UI would display wrong colours during replays; the leaderboard can now display up more players, and can be scrolled through by dragging with the mouse; added a survey that shows up in main menu upon successfully completing the game
 
 v1.2.1 - The survey link is updated in main menu; exit button added to the ToS screen; small UI changes
+
+v1.3 - Added multi-replay functionality and offline mode on login screen
